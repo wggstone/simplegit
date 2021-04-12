@@ -5,5 +5,8 @@ This library calls git commands and returns the output.
 
 Author : Scott Chacon
 
+
 add a line.// added at master branch
+Add one line.// added at testbranch branch
+fixed the conflict between master and testbranch
 
