@@ -13,3 +13,6 @@ fixed the conflict between master and testbranch
 Add a line.// added a line on testbranch@local repo
 ||||||||||||||||||||||||||||||||||||||||||||||||
 Add another line.// added a line on testbranch@local repo
+&&&&&&&&&&&&&&&&&
+add one line.// added at testbranch@local repo
+
