@@ -1,3 +1,4 @@
+//add one line directly on master@remote repo  (format: branch@repo)
 require 'rubygems'
 Gem::manage_gems
 require 'rake/gempackagetask'
