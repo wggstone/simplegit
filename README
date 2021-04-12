@@ -9,4 +9,6 @@ Author : Scott Chacon
 add a line.// added at master branch
 Add one line.// added at testbranch branch
 fixed the conflict between master and testbranch
+||||||||||||||||||||||||||||||||||||||||||||||||
+Add a line.// added a line on testbranch@local repo
 
